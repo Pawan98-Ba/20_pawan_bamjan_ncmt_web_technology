@@ -1,0 +1,43 @@
+Group A : Short Question
+________________________
+
+
+1. Define the term ”Protocol” in the context of the Internet.
+
+ans: Protocol are set of rules and regulation that are developed for effective communication over the internet.
+Protocol defines communication as it describes data format, data sent and arrival, error handling, security and protection from attacker.
+(HTTP/HTTPs, TCP, IP, FTP etc) are widely use Protocol.
+
+
+
+2. What is the primary difference between a Web Browser and a Search Engine?
+
+ans: Search Engine are the tools or tech that are developed to fetch/find the data and information present in internet(WWW) by user quiery.
+Browser are software or application that gets access for user to view the websites and webcontent.
+The primary difference can be said Browser serves the content that is fetched by the search engine.
+
+
+3. Define the World Wide Web (WWW).
+
+ans: Stands for World wide web. WWW is the collection of all the websites and webcontent present in the internet.
+
+
+4. Distinguish between a static web page and a dynamic web page.
+
+ans: static web page are static by nature as their content doesnot change until developer channged manually where as the dynamic webpage changes   it content based on user, time or input. dynamic web is assisted by database to support real-time changes but the static web lacks database.
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Group B : Long Question
+________________________
+
+5. Explain the client-server architecture of the web with a neat diagram.
+
+
+
+6. Describe the functions of the following Internet services: Email, FTP, and VoIP.
+7. ”The Internet is a network of networks.” Elaborate on this statement explaining how
+packet switching works.
