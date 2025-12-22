@@ -1,0 +1,99 @@
+Group A: Short Question
+________________________
+
+1. Define the term ”Sitemap” in the planning phase.
+
+ans: A sitemap is a structured outline or diagram that shows all the pages of a website and how they are connected to each other. 
+In the planning phase, it helps designers and developers plan the website’s navigation, content organization, and user flow before 
+actual development begins.
+
+
+2. What is the purpose of the ”Launch” phase in web development?
+
+ans: Launch phase is when a complete website is served live on the internet. Its purpose is to ensure the web running in server with perfect condition.
+
+
+3. Why is ”Documentation” important in the development lifecycle?
+
+ans: Documentation is important because it provides a clear reference for development, maintenance, communication, and future updates of the system.
+
+
+4. Differentiate between Front-end and Back-end development.
+
+Front-end development: Development of website that is seen by the viewer using the HTML, CSS, and JavaScript, ensuring a smooth user experience.
+
+Back-end development: Development of website that involves managing server, database, and application logic using languages like PHP, Python, 
+or Node.js to handle data processing, storage, and business rules behind the scenes.
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Group B: Long Questions
+_______________________
+
+
+5. ”Planning is the most critical phase of web development.” Discuss this statement by listing the key activities performed during the planning phase.
+
+ans: Planning is the most critical phase of web development because :
+    a. Defines the goal and requirement.
+    b. Organize content and provide its structure.
+    c. Provide future scope and defines the challanges.
+    d. Guide other aspect of Developmemt
+
+
+6. Explain the iterative nature of the Maintenance phase. Why is a website never truly ”finished”?
+
+ans: maintainace phase contiunously evolves though updates, bug fix, performance improvement and feature addition, and for this the review and 
+upgrade must be done iteratively.
+
+ans: Website can need update time to time by maintainace, need new technology,change feature according to featurse and other many changes in that
+website thus continuous work is needed so a website is never truely finished.
+
+
+7. Describe the process of ”Information Gathering.” Why is understanding the target audience crucial during this step?
+
+ans: Information gathering is the process of collecting all necessary data before starting website development. 
+This includes understanding the client’s goals, business requirements, competitors, content, technical constraints, and user needs.
+
+ans: At the end, the website is used by the users. To reach the taste of the audiece provides the better experience and usability to the 
+user while the site can achieve its purpose.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Group C: Scenario-Based Questions 
+_________________________________
+
+
+8. You are the project manager for a new e-commerce site. The client wants to skip the ”Testing” phase to save money and launch early.
+Write a persuasive argument explaining the potential risks (security, functionality, compatibility) of skipping this phase.
+
+ans: There can be many risk in the website if negleting the testing phase, the potential risk cna be :-
+    a. Security risk: Vulnerability may go unnotice if skipped the testing resulting a security hazard.
+    b. Functionality risk: Some feature may not work or may work differently. Some module can clash to other if left unseen.
+    c. compatibility risk: The website may not perform well across different browsers, devices, or screen sizes, leading to a poor user experience and reduced reach.
+    d. Reputation Damage: A website that crashes, behaves unpredictably, or exposes sensitive data can damage the client’s credibility and customer trust.
+Investing in testing may take time upfront, but it prevents costly fixes, protects users, and ensures a successful launch.
+Skipping it may save money initially but could result in far greater financial and reputational losses later.
+
+
+
+9. A developer begins coding a website immediately after meeting the client, without creating a design prototype or sitemap. Midway through,
+the client rejects the layout. Analyze what went wrong in the process and how it should have been handled.
+
+ans: Any development of software and system have set of steps to be followed so no problem aries. The best method is of SDLF where every steps have 
+set of task that supports the overall development of that system. 
+(Planning, Analysis, Design, Development, Testing, Implement, Maintainace) are all the process that has to be handled properly for best development of website.
+
+ans: A developer begins directly be coding(development) has skipped planning, analysis and designing, it bypasses the crirical section of devlopment 
+and result in mismatch between the client’s expectations and the actual website layout, causing wasted time and effort. 
+
+
+
+10. A university website was launched successfully, but after six months, students stopped visiting it because the exam schedules were outdated. 
+Which phase of the development lifecycle was neglected? Explain the activities involved in this phase.
+
+ans: Since the exam schedules were outdated, this means the update was missing thus the maintainace phase was skipped. The maintenance phase involves
+regularly updating and improving the website to keep content accurate, fix bugs, enhance performance, and ensure security. 
