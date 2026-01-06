@@ -1,0 +1,108 @@
+Group A: Short Questions 
+________________________
+
+
+1. Define Information Architecture (IA).
+
+ans: It refers to the systematic organizating and structuring of website content so the user experience is achieved.
+It says about content structure, navigation, search label.
+
+
+2. What is a ”Wireframe”?
+
+ans: A blueprint of a website that outlines the structure and layout of a page not mentioning the visual design like color, fonts.
+It is created before design phase, and generally done to satisfy the designer, developer and stakeholder.
+
+
+3. Explain the concept of ”Cognitive Friction” in web design.
+
+ans: Cognitive Friction in web design refers to the mental effort required by users to understand, interpret, or interact with a website or 
+web application. It says how tedious the website is to the user.
+
+
+4. Why should URL slugs use hyphens instead of underscores?
+
+ans: URL slugs should use hyphens (-) instead of underscores (_) primarily for readability, usability, and search engine optimization (SEO).
+    a. web-design-basics → interpreted as web design basics
+    b. web_design_basics → interpreted as webdesignbasics
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+Group B: Long Questions 
+________________________
+
+5. Compare and contrast Hierarchical (Tree) structure and Linear (Sequential) structure. Give an example of when to use each.
+
+Hierarchical : A hierarchical structure organizes information in a parent–child relationship, resembling a tree with a root and multiple branches.
+It provides flexibility, supports exploration, and scales well as content grows due to division of main branch to further broken branch.
+
+Linear : A linear structure presents information in a fixed, step-by-step sequence, where users move forward and sometimes backward in a 
+predefined order. This structure is best suited for task-oriented processes where the order of steps is important. It limits navigation
+flexibility but ensures clarity and reduces user confusion.
+
+
+6. Explain the ”Three-Click Rule” and its significance in User Experience (UX) design.
+
+ans: The Three-Click Rule is a usability principle in User Experience (UX) design which suggests that a user should be able to find any 
+information on a website within three clicks. If users require more than three interactions to reach their desired content, they may become 
+frustrated and abandon the site.
+
+
+7. ”Plan before you do.” Explain how tools like Card Sorting and Flowcharts help in planning a website’s structure.
+
+ans: Plan before you do means of organizing the thoughts and ideas before starting designing or developing the website.
+
+Card Sorting: It is a technique to understand the mental  of the user, and by that info making plans to support the mental power of the user.
+Like a website for kid being colorfull and animation while for blind people the website contains audio formatted content.
+
+Flochart: It is a visual representation of the plan. It maps out the process for the development, describe the flow of the program.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Group C: Scenario-Based Questions 
+_________________________________
+
+
+8. You are designing a website for a University. It has hundreds of pages (Admissions, Departments, Alumni, News). Which structural 
+model would you choose? Draw a rough diagram and justify your choice.
+
+ans: The website contains hundred of pages with the context (Admissions, Departments, Alumni, News) so the hierarchical structure can be best fit 
+for it. In the hierarchical structure we can divide the (Admissions, Departments, Alumni, News) in main and sub main categories, making it easier 
+to navigate, makes it scalable as new sub group can be added.
+
+Reasons for choosing hierarchical structure :
+    a. Handles large content effectively
+    b. scalable
+    c. Reduces Cognitive friction
+
+
+9. Auser visits a website but leaves within 10 seconds because they cannot find the navigation menu, which is hidden behind a small icon on a 
+desktop screen. Analyze this design failure using the ”KISS” (Keep It Simple) principle.
+
+ans: The problem can be seen that the navigation menu that was hidden in a small icon that is hard to notice and it is not based on KISS principle
+making it harder for user to use it. In this condition the user leaves the website within 10 sec.
+
+KISS mentiion that keep it simple,stupid. It means to make the website simple, and easy to use while fixing the Cognitive friction os the user.
+To place the content in 3 clicks. But the website here lacks the KISS principle, increasing the Cognitive friction.
+
+Correct Approach:
+    a. Display the main navigation menu prominently on desktop screens.
+    b. Use a hamburger icon only for mobile or small screens where space is limited.
+    c. Ensure users can immediately see and access core sections without extra steps.
+
+
+
+10. An e-commerce website has a URL structure like www.shop.com/prod?id=55&cat=9. Explain why this is bad for both users and Search Engines 
+(SEO), and propose a better structure using Page Slugs
+
+ans: The URL www.shop.com/prod?id=55&cat=9 is considered poor practice for both users and search engines for several reasons:
+    a. Unreadable and unfriendly making hard to understand; prod?id=55&cat=9 gives no clue that it’s about a product, let alone which product.
+    b. Poor SEO Performance: Search engines prefer URLs with keywords that describe the content.
+
+A Page Slug is a human-readable, descriptive URL segment that clearly indicates the content. 
+eg: www.shop.com/electronics/smartphone-samsung-galaxy-s23
+It is user friendly, accepted by seo and is easier to learn
