@@ -1,0 +1,115 @@
+Group A: Short Questions
+_________________________
+
+
+1. Differentiate between Legibility and Readability.
+
+Legibility : refers to how easily individual letters and characters can be visually recognized. It mainly depends on factors such as font type,
+font size, letter spacing, contrast between text and background, and overall clarity of characters. If a font is too decorative or the contrast 
+is poor, the text becomes difficult to identify, reducing legibility.
+
+Readability : refers to how easily a reader can read and understand a block of text. It focuses on the overall presentation and structure of 
+content rather than individual letters. Readability is influenced by sentence length, word complexity, paragraph spacing, line 
+length, headings, and content organization. Even if the text is legible, poor layout or complex language can make it hard to read.
+
+
+2. What is the ”Rule of Thirds” in layout design?
+
+ans : According to this rule, a layout is divided into three equal parts horizontally and vertically, forming a 3×3 grid with nine equal sections. 
+The most important elements of the design—such as headlines, images, buttons, or focal points—are placed along the grid lines or at their 
+intersection points, rather than at the exact center.
+
+
+3. Why should you limit the number of font families used on a website?
+
+ans: Using too many fonts makes a design look cluttered and unprofessional, which distracts users and reduces readability. A limited set of fonts 
+helps establish a clear visual hierarchy, allowing users to easily distinguish between headings, subheadings, and body text.
+
+
+4. Define ”Responsive Web Design.”
+
+ans : Responsive Web Design means designing a website so that it automatically adjusts to fit different screen sizes, such as 
+mobile phones, tablets, and computers. The layout, text, and images change smoothly so the website looks good and works properly on every device.
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Group B: Long Questions
+_______________________
+
+
+5. Explain the ”F-Pattern” of scanning and how it influences the placement of content on a web page.
+
+ans: The F-Pattern of scanning describes how users commonly read content on a web page, especially text-heavy pages. Eye-tracking studies show 
+that users first scan horizontally across the top of the page, then move down slightly and scan across again, and finally scan vertically down 
+the left side, forming an “F” shape.
+
+This behavior influences web design by guiding where important content should be placed. Key elements such as headlines, navigation menus, important
+links, and calls to action are positioned along the top area and left side of the page to catch user attention quickly. Less important information 
+is placed lower or to the right, improving usability and ensuring users see the most critical content first.
+
+
+6. Discuss the psychological impact of colors in web design. Give examples of where Blue, Red, and Green should be used.
+
+ans : Colors in web design have a strong psychological impact because they influence users’ emotions, perceptions, and behavior. The right color 
+choices can build trust, create urgency, improve usability, and guide user actions, while poor color selection can confuse or overwhelm users.
+
+Blue : associated with trust, calmness, and professionalism letting a sense of reliability and security.
+Red : represents energy, urgency, and excitement calling out warnings, alerts and error msg.
+Green : symbolizes nature, growth, health, and balance.
+
+
+7. Explain the ”60-30-10 Rule” regarding color balance on a website.
+
+ans : The 60-30-10 Rule is a color-balance principle used in web design to create a clean, visually pleasing, and well-organized layout. 
+According to this rule, 60% of the website should be a primary color, 30% a secondary color, and 10% an accent color.
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Group C: Scenario-Based Questions 
+_________________________________
+
+8. A website loads very slowly, causing users to abandon it. Upon inspection, you find the developer used high-resolution raw images directly 
+from a camera. Explain the importance of Image Optimization and file formats (JPEG vs PNG) to solve this.
+
+ans : To solve the issue, images should be resized to the required display dimensions, compressed using appropriate tools, and saved in the correct
+format JPEG for photos, PNG for graphics. This improves website speed, reduces loading time, and enhances overall user experience.
+
+Choosing the correct image file format also plays a key role. JPEG is best suited for photographs and complex images with many colors. 
+It uses lossy compression, which significantly reduces file size with minimal visible quality loss, making it ideal for backgrounds, banners, 
+and product photos. PNG, on the other hand, uses lossless compression and supports transparency, making it suitable for logos, icons, and 
+images with text or sharp edges—but it usually results in larger file sizes.
+
+
+9. You are designing a website for a Law Firm. The client wants to use a bright yellow background with Comic Sans font to look ”friendly.” 
+As a web designer, critique this choice based on Color Theory and Typography principles, and suggest a better alternative.
+
+ans: From color theory, bright yellow is associated with energy, playfulness, and caution, which can feel overwhelming or unprofessional in a legal
+context. It may reduce readability, especially with text-heavy content, and could make users perceive the firm as less credible or serious. From a 
+typography standpoint, Comic Sans is an informal, casual font designed for playful or child-oriented contexts. It lacks the professionalism, 
+authority, and readability expected for a law firm, which relies on trust and credibility.
+
+A better alternative would be to use neutral, professional colors such as navy blue, dark gray, or deep green. These colors convey trust, stability,
+and professionalism while remaining visually appealing. For typography, it is recommended to choose a serif font like Times New Roman, Georgia, 
+or Merriweather for body text, paired with a clean sans-serif font like Helvetica or Open Sans for headings. This combination ensures readability 
+and communicates authority and reliability, creating a website that aligns with the professional image expected of a law firm.
+
+
+10. A website looks great on a laptop but is unreadable on a mobile phone because the user has to zoom in and scroll horizontally. Identify the 
+design principle missing here and explain how Media Queries/Fluid Grids could fix it.
+
+ans: The issue described indicates a lack of responsive design in the website. The design principle missing here is Responsiveness, which ensures 
+that a website adapts smoothly to different screen sizes and devices, providing a usable and readable layout without requiring horizontal 
+scrolling or zooming.
+
+Media Queries in CSS allow designers to apply different styles depending on the device’s screen width, height, or orientation. 
+For example, you can adjust font sizes, rearrange columns, or hide certain elements on smaller screens to improve readability and usability.
+
+Fluid Grids complement this by using relative units (like percentages) instead of fixed pixels to define layout elements. 
+This allows content blocks, images, and columns to resize proportionally based on the screen size.
+
+By combining media queries and fluid grids, the website can automatically adjust its layout for laptops, tablets, and mobile phones, 
+ensuring that users can view and interact with content comfortably on any device
